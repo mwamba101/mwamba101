@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mwamba101
-- 👀 I’m interested in both frontend and backend web development in React.js Next.js, node.js and python
+- 👀 I’m interested in both frontend and backend web development in React.js, React Native, Next.js, node.js and python
 - 🌱 The languages i use are javascript, python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on WhatsApp= +260760316241
